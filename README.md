@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, My name is Atul Panchal.<br>👀 I’m interested in Coding, Making projects, web development, DSA and many more.<br>🌱 I’m currently learning C++, frontnend and Backend web development.<br>📫 How to reach me: Email id: panchalatul7011@gmail.com , Linkedin: https://www.linkedin.com/in/atul-panchal
+👋 Hi, My name is Atul Panchal.<br>👀 I’m interested in Coding, Making projects, web development and DSA .<br>🌱 I’m currently learning C++, frontnend and Backend web development.<br>📫 How to reach me: Email id: panchalatul7011@gmail.com.
 
 
 ## 🌐 Socials:
